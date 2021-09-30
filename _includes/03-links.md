@@ -1,1 +1,1 @@
-https://github.com/seeratbhatia hello i am Git Hub
+[seerat] (https://github.com/seeratbhatia)
