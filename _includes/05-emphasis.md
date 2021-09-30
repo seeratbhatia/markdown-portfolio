@@ -1,4 +1,1 @@
-just started learning coding.
-i want to become a good programmer.
-always dream high
-grow together
+I like to **LEARN** new thing so i started learning _coding_ in **Alt Campus School**_
