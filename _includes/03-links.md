@@ -1,1 +1,1 @@
-[seerat] (https://github.com/seeratbhatia)
+[seerat](https://github.com/seeratbhatia)
