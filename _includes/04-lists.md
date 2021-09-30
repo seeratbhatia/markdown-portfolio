@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* i love learning.
+* i love travalling and exploring new places.
+* my fur friend shadow,who i love the most.
